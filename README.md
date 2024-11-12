@@ -14,7 +14,7 @@ The dataset encompasses various aspects of sales performance and supply chain lo
 
 
 # **Dataset Preview**
-[Dataset](https://github.com/NishaChandila/project-assets/blob/main/supply-data.PNG)
+![Dataset](https://github.com/NishaChandila/project-assets/blob/main/supply-data.PNG)
 
 # **Columns**
 - **Product Type**: Category or type of the product (e.g., skincare, haircare) for classification.
