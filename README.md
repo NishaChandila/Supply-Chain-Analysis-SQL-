@@ -5,9 +5,9 @@
 # **Introduction**
 This report aims to provide stakeholders with a comprehensive view of our sales and supply chain performance. Through data analysis and visualization, we address key business questions, such as which products and customer segments drive the most revenue, where costs can be optimized in the supply chain, and how we can improve overall efficiency. We answered these questions using SQL for in-depth data processing, and to make the insights more accessible, we’ve created an interactive Power BI dashboard. This approach allows non-technical users to explore the data easily, supporting well-informed decisions across the organization.
 
-- [SQL Questions Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
-- [Dataset Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_data.csv)
-- [Power BI Dashboard Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
+- Supply Chain [SQL Queries](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
+- Supply Chain [Dataset](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_data.csv)
+- Supply Chain [Power BI Dashboard](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
 
 # **Data Structure**
 The dataset encompasses various aspects of sales performance and supply chain logistics, providing a foundation for in-depth analysis of product demand, customer behavior, and operational efficiency. Each column contributes unique insights, from product details and revenue metrics to logistics costs and supplier information, allowing for a comprehensive view of factors impacting overall business performance.
@@ -42,6 +42,8 @@ The dataset encompasses various aspects of sales performance and supply chain lo
 - **Routes**: Specific paths or regions used in shipping logistics.
 - **Transportation Costs**: Expenses associated with each mode of transportation.
 
+- Supply Chain [Dataset](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_data.csv)
+
 # **Executive Summary**
 This report provides valuable insights into sales performance and supply chain operations, focusing on key metrics that drive business growth and operational efficiency. The analysis is structured across two pages:
 
@@ -63,7 +65,7 @@ This report provides valuable insights into sales performance and supply chain o
 
 ![Supply](https://github.com/NishaChandila/project-assets/blob/main/supply3.PNG)
 
-- [Power BI Dashboard Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
+- Supply Chain [Power BI Dashboard](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
 
 # **SQL Questions Summary**
 This analysis utilizes SQL queries to provide valuable insights across key business areas: Cost, Supply Chain, Logistics, Quality, and Production. These insights will guide stakeholders in optimizing operations, reducing costs, improving quality, and driving profitability. The following findings summarize the key areas of focus:
@@ -74,7 +76,7 @@ This analysis utilizes SQL queries to provide valuable insights across key busin
 - **Quality Analysis**: By analyzing defect rates for each product type, we identified areas where product quality can be improved, leading to better customer satisfaction and reduced returns.
 - **Production Analysis**: We looked at the relationship between production volumes, stock levels, and sales quantities to ensure production aligns with demand, preventing excess inventory or shortages.
 
-- [SQL Questions Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
+- Supply Chain [SQL Queries](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
 
 # **Recommendation**
 Based on the insights from both the SQL analysis and Power BI dashboard, several recommendations have been made to optimize operations and enhance profitability. By focusing on cost efficiency, inventory management, logistics, quality control, and production planning, the company can improve overall performance. Below are the key recommendations:
@@ -88,6 +90,6 @@ Based on the insights from both the SQL analysis and Power BI dashboard, several
 # **Conclusion**
 By implementing these recommendations, the company can significantly improve operational efficiency, reduce costs, and enhance product quality. The goal is to create a more streamlined and cost-effective process that better aligns with market demand and customer expectations. Moving forward, continual monitoring and data analysis will be crucial to ensuring that the company remains agile and responsive to any shifts in the market or supply chain.
 
-- [SQL Questions Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
-- [Dataset Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_data.csv)
-- [Power BI Dashboard Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
+- Supply Chain [SQL Queries](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_sql.sql)
+- Supply Chain [Dataset Link](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_data.csv)
+- Supply Chain [Power BI Dashboard](https://github.com/NishaChandila/Supply-Chain-Analysis-SQL-/blob/main/supply_chain_dashboard.pdf)
